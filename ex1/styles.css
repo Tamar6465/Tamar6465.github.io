@@ -1,0 +1,38 @@
+
+body{
+    background-color:rgb(247, 206, 206);
+}
+
+h1{
+    color:rgb(124, 15, 15);
+}
+h2{
+    color:rgb(165, 52, 52);
+}
+h3{
+    color: rgb(187, 14, 14);
+}
+p{
+    color:rgb(109, 8, 8);
+}
+.img1{
+    padding: 3px;
+    border: rgb(238, 88, 88)  solid 3px;
+}
+table td{
+    padding:  10px 10px;
+    border: red solid 1px;
+    font-family: italic ;
+color:  rgb(146, 3, 3);
+
+}
+table thead td{
+    background-color: rgb(87, 31, 31);
+color: seashell;
+}
+#logo{
+    float: right;
+}
+h5{
+    color:rgb(109, 8, 8);
+}
